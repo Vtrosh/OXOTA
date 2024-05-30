@@ -1,0 +1,1 @@
+https://sun9-63.userapi.com/impg/aNQVHCDdIsK-Rd33nk-7JMf4jBxBl4ET0K5D2w/DJlfBum4TDc.jpg?size=1000x1000&quality=96&sign=3be44b5a73118984ef13e35857b11e59&type=album![image](https://github.com/Vtrosh/OXOTA/assets/134198384/a9dea4e6-b7a6-45f2-a012-767f57446f2e)
