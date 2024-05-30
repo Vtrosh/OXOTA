@@ -11,7 +11,7 @@ Throughout the development process, each team member contributed their unique ex
 
 We take pride in creating not just a drone, but an innovative technological solution that opens up new possibilities in exploring and resource gathering on the planet "MIFIORIS". Our team is ready for new challenges and looks forward to continuing work on future projects.
 
-<img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/team.jpg" alt="Охота Крепкое Team" width="auto" height="250">
+<img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/team.jpg" alt="Охота Крепкое Team" width="auto" height="200">
 
 ## Code Explanation
 
