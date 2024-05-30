@@ -88,11 +88,11 @@ Below is the evolution of our drone model, showcasing the development stages fro
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/dronemodel.jpg" alt="Drone Image 3" style="margin: 10px; max-width: 200px; height: 300px;">
-    <img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/ddd.jpeg" alt="Drone Image 1" style="margin: 10px; max-width: 100px; height: 300px;">
-    <img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/code.jpeg" alt="Drone Image 2" style="margin: 10px; max-width: 100px; height: 500px;">
-  <img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/grisha.jpeg" alt="Drone Image 2" style="margin: 10px; max-width: 100px; height: 500px;">
-  <img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/teamchill.jpg" alt="Drone Image 2" style="margin: 10px; max-width: auto; height: 500px;">
-    <img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/logo_demo.jpg" alt="Drone Image 2" style="margin: 10px; max-width: 100px; height: 300px;">
-    <img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/78Li8wuaLSU.jpg" alt="Drone Image 3" style="margin: 10px; max-width: 100px; height: 300px;">
+    <img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/ddd.jpeg" alt="Drone Image 1" style="margin: 10px; max-width: auto; height: 300px;">
+    <img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/code.jpeg" alt="Drone Image 2" style="margin: 10px; max-width: auto; height: 500px;">
+  <img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/grisha.jpeg" alt="Drone Image 2" style="margin: 10px; max-width: auto; height: 500px;">
+  <img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/teamchill.jpg" alt="Drone Image 2" style="margin: 10px; max-width: auto; height: 100%;">
+    <img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/logo_demo.jpg" alt="Drone Image 2" style="margin: 10px; max-width: auto; height: 300px;">
+    <img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/78Li8wuaLSU.jpg" alt="Drone Image 3" style="margin: 10px; max-width: auto; height: 300px;">
 </div>
 
