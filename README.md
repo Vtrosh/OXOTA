@@ -1,5 +1,5 @@
 
-# <img src="https://github.com/Vtrosh/OXOTA/blob/main/Пикчи/logo.jpeg" alt="Охота Крепкое Logo" width="50" height="50"> Охота Крепкое - Drone Project
+# <img src="https://github.com/Vtrosh/OXOTA/Пикчи/logo.jpeg" alt="Охота Крепкое Logo" width="50" height="50"> Охота Крепкое - Drone Project
 
 ## Introduction
 
